@@ -512,3 +512,102 @@ padding-right:40px;
 }
 
 
+
+/*---------------- Education Section ----------------*/
+
+#education{
+    padding:100px 10%;
+    background:#ffffff;
+    text-align:center;
+}
+
+
+
+#education h1{
+    font-size:48px;
+    color:#0F172A;
+    margin-bottom:15px;
+}
+
+
+.education-subtitle{
+    font-size:18px;
+    color:#64748B;
+    margin-bottom:60px;
+}
+
+.education-container{
+    display:flex;
+    justify-content:center;
+}
+
+/*---------------- Education Section ----------------*/
+
+#education{
+    padding:100px 10%;
+    background:#ffffff;
+    text-align:center;
+}
+
+#education h1{
+    font-size:48px;
+    color:#0F172A;
+    margin-bottom:15px;
+}
+
+.education-subtitle{
+    font-size:18px;
+    color:#64748B;
+    margin-bottom:60px;
+}
+
+.education-container{
+    display:flex;
+    justify-content:center;
+}
+
+.education-card{
+    width:600px;
+    background:#f8fafc;
+    padding:40px;
+    border-radius:20px;
+    border:1px solid #E2E8F0;
+    box-shadow:0 10px 30px rgba(0,0,0,0.08);
+    transition:0.3s ease;
+}
+
+.education-card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 20px 40px rgba(59,130,246,0.15);
+}
+
+.education-icon{
+    font-size:60px;
+    color:#38BDF8;
+    margin-bottom:25px;
+}
+
+.education-card h3{
+    font-size:28px;
+    color:#0F172A;
+    margin-bottom:10px;
+}
+
+.education-card h4{
+    font-size:22px;
+    color:#0284C7;
+    margin-bottom:10px;
+}
+
+.education-year{
+    font-size:16px;
+    font-weight:600;
+    color:#64748B;
+    margin-bottom:20px;
+}
+
+.education-card p{
+    font-size:17px;
+    color:#475569;
+    line-height:1.8;
+}
