@@ -357,7 +357,7 @@ padding-right:40px;
     margin-top: 30px;
 }
 
-.about-button button{
+.about-button a{
     padding: 14px 30px;
     background-color: #38BDF8;
     box-shadow:0 8px 20px rgba(56,189,248,0.3);
@@ -368,9 +368,10 @@ padding-right:40px;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s ease;
+    text-decoration:none;
 }
 
-.about-button button:hover{
+.about-button a:hover{
     background-color: #0EA5E9;
     transform: translateY(-5px);
 }
