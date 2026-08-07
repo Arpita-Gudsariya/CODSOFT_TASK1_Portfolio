@@ -1,20 +1,32 @@
 # 🌐 Personal Portfolio Website
 
-A modern and responsive personal portfolio website built using HTML and CSS to showcase my skills, projects, education, and contact information.
+A modern, responsive and clean personal portfolio website built using **HTML5** and **CSS3**. This project showcases my skills, education, projects, and resume in a professional way.
+
+---
+
+## 🚀 Live Demo
+
+🔗 **Website:** https://arpita-gudsariya.github.io/CODSOFT_TASK1_Portfolio/
+
+---
+
+## 📸 Portfolio Preview
+
+![Portfolio Preview](assets/portfolio-home.png)
 
 ---
 
 ## ✨ Features
 
-- Responsive Design
-- Modern User Interface
-- About Me Section
-- Technical Skills
-- Projects Showcase
-- Education Section
-- Contact Section
-- Resume Preview
-- Resume Download
+- 💻 Fully Responsive Design
+- 🎨 Modern UI Design
+- 👩‍💻 About Me Section
+- 🛠️ Technical Skills
+- 📂 Projects Showcase
+- 🎓 Education Section
+- 📄 Resume Preview
+- ⬇️ Resume Download
+- 📞 Contact Section
 
 ---
 
@@ -23,33 +35,41 @@ A modern and responsive personal portfolio website built using HTML and CSS to s
 - HTML5
 - CSS3
 - Font Awesome
+- Google Fonts
 
 ---
 
-## 📂 Project Structure
+## 📂 Folder Structure
 
-```
+```text
 CODSOFT_TASK1_Portfolio/
-│── image/
-│── resume/
-│── index.html
-│── style.css
-│── README.md
+│
+├── assets/
+│   └── portfolio-home.png
+│
+├── image/
+├── resume/
+├── index.html
+├── style.css
+└── README.md
 ```
-
-
-
-## 🚀 Projects Included
-
-- 🍔 Online Food Ordering System
-- 💼 Personal Portfolio
-- 🎮 Tic-Tac-Toe Game
 
 ---
 
-## 📄 Resume
+## 💡 What I Learned
 
-This portfolio includes a resume preview and download option.
+- Creating responsive layouts using HTML & CSS
+- Building a professional portfolio website
+- Using Git & GitHub for version control
+- Deploying websites with GitHub Pages
+- Organizing project structure
+
+---
+
+## 📬 Contact
+
+- **GitHub:** https://github.com/Arpita-Gudsariya
+- **LinkedIn:** https://www.linkedin.com/in/arpita-gudsariya-b36859347/
 
 ---
 
@@ -57,9 +77,4 @@ This portfolio includes a resume preview and download option.
 
 Arpita Gudsariya
 
-- GitHub: https://github.com/Arpita-Gudsariya
-- LinkedIn: https://www.linkedin.com/in/arpita-gudsariya-b36859347/
-
----
-
-## ⭐ Thank you for visiting my portfolio!
+Built with ❤️ as part of the **CodSoft Web Development Internship**.
